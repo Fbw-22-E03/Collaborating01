@@ -7,8 +7,9 @@ DEn And Abdulla Collab
 ### Arabic
 - My Mother food 
 - Shawarma
-
+---
 ## Denis McArdle  
 Irish. Father of 2 girls.  
 'Born to code' not 
+---  
 
